@@ -193,9 +193,6 @@ section{
     34%, 66%{
         content: "Designer";
     }
-    67%, 100%{
-        content: "Junior SQ Eng";
-    }
 }
 .content p{
     font-size: clamp(0.4rem, 0.2rem + 9vw, 1rem);
