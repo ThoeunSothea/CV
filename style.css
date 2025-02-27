@@ -40,7 +40,8 @@ nav{
     position: absolute;
     right: 15px;
     top: 10px;
-    color: black;
+    color: rgb(109,67, 0);
+    text-shadow: 0 0 10px rgb(105, 92, 70);
     font-size: 2rem;
     display: none;
 }
